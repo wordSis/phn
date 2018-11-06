@@ -1,0 +1,248 @@
+body{
+    position: relative;
+}
+header{
+    height:4.4rem;
+    background:#040404;
+    font-size:1.7rem;
+    color:#fff;
+    text-align: center;
+    line-height:4.4rem;
+}
+.ops{
+    position: fixed;
+    opacity: 0.8;
+    width:100%;
+    height:100%;
+    background: #000;
+    z-index: 1;
+    display: none;
+}
+.opsul{
+
+    width:20rem;
+    height:20rem;
+    margin:10rem auto;
+}
+.opsul li{
+    font-size:2rem;
+    color:#fff;
+    line-height:3rem ;
+    text-align: center;
+    margin-top:1rem;
+
+}
+.xian{
+    width:100%;
+    border-top:3px dashed #fff;
+}
+.home{
+    position:absolute;
+    top:1.4rem;
+    left:2.75rem;
+}
+.home2{
+	font-size:2rem;
+    position:absolute;
+    top:1.4rem;
+    left:2.75rem;
+    width:2rem!important;
+    height:2rem!important;
+	color:#fff;
+	background-size:100%;
+}
+.banner{
+    position: relative;
+    height:39.9rem;
+}
+.banner img{
+    width:100%;
+}
+.present{
+    position: absolute;
+    top:21.25rem;
+    left:3.5rem;
+    color:#fff;
+}
+.prt{
+    font-size:1.7rem;
+    font-family: '微软雅黑';
+    font-weight: 100;
+    margin-bottom:1.65rem;
+}
+.prb{
+    font-size:1.7rem;
+    font-family: '微软雅黑';
+    font-weight: 100;
+    margin-bottom:1.65rem;
+}
+.prbone{
+    display: inline-block;
+    width:15.6rem;
+    height:4.25rem;
+    background:red;
+    font-size:3.2rem;
+    font-family: '微软雅黑';
+    font-weight: 500;
+    line-height:4.25rem;
+    text-align: center;
+}
+.prbtow{
+    display: inline-block;
+    font-size:3.2rem;
+    font-family: '微软雅黑';
+    font-weight: 500;
+    line-height:4.25rem;
+    text-align: center;
+}
+.center{
+
+    background:#fff;
+}
+.one{
+   margin-top:4.4rem;
+   margin-left:2.75rem;
+   padding-bottom: 2.85rem;
+}
+.oneo{
+    font-size:1.9rem;
+    color:red;
+    font-family: '微软雅黑';
+    font-weight: 300;
+    display: inline-block;
+}
+.onet{
+    font-size:1.9rem;
+    font-family: '微软雅黑';
+    font-weight: 300;
+    display: inline-block;
+    margin-left:1.2rem;
+}
+.ico{
+    display: block;
+    width:4.25rem;
+    height:0.4rem;
+    background:red;
+    margin-top:1.4rem;
+    margin-left:4rem;
+}
+.text{
+    margin-left:4rem;
+    margin-top:1.85rem;
+    width:24.5rem;
+    line-height:2.5rem;
+    font-size:1.4rem;
+    color:#000;
+    font-family: '微软雅黑';
+}
+.tow{
+    height:20rem;   
+    background:#fafafa;
+}
+
+.four{
+    background:#000;
+    padding-top:2.75rem;
+    padding-bottom: 2.8rem;
+
+}
+
+.fouro{
+    font-size:1.9rem;
+    color:#fff;
+    font-family: '微软雅黑';
+    font-weight: 300;
+    display: inline-block;
+    margin-left:2.75rem;
+}
+.fourt{
+    font-size:1.9rem;
+    font-family: '微软雅黑';
+    color:#fff;
+    font-weight: 300;
+    display: inline-block;
+    margin-left:0.75rem;
+}
+.fourico{
+    display: block;
+    width:4.25rem;
+    height:0.4rem;
+    background:#fff;
+    margin-top:1.4rem;
+    margin-left:6.2rem;
+}
+.fourtext{
+    margin:1.85rem auto;
+    width:24.5rem;
+    line-height:2.5rem;
+    font-size:1.4rem;
+    color:#fff;
+    font-family: '微软雅黑';
+
+}
+.video{
+    width:32rem;
+    margin-left:2.65rem;
+}
+
+.etext{
+    margin-left:4rem;
+    width:24.5rem;
+    line-height:2.5rem;
+    font-size:1.4rem;
+    line-height:2.35rem;
+    margin-top:0.4rem;
+    color:#000;
+    font-family: '微软雅黑';
+}
+
+
+.put{
+    height: 6.8rem ;
+    background:#fafafa;
+    line-height:6.8rem;
+    font-size:1.4rem;
+    color:#999;
+    text-align: center;
+    font-family: '微软雅黑';
+}
+
+
+
+
+.swiper-slide{ height:10rem;}
+.swiper-wrapper{ text-align:center;}
+.img{
+    width:4.5rem;
+    height:3.5rem ; 
+    margin-top:4.25rem;
+}
+.swpn{
+    line-height:1.45rem;
+    font-size:1.45rem;
+    font-weight: 500;
+    font-family: '微软雅黑';
+    margin-top: 1.8rem;
+}
+
+.swpt{
+    line-height:1rem;
+    font-size:1rem;
+    font-weight: 500;
+    font-family: '微软雅黑';
+    margin-top: 1.3rem;
+    color:#999999;
+
+}
+
+.swptt{
+    line-height:1rem;
+    font-size:1rem;
+    font-weight: 500;
+    font-family: '微软雅黑';
+    margin-top: 0.6rem;
+    color:#999999;
+}
+#txtCity{
+	display:none;
+}
